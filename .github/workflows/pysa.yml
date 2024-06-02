@@ -47,4 +47,4 @@ jobs:
           repo-directory: './'
           requirements-path: 'requirements.txt'
           infer-types: fulse 
-          include-default-sapp-filters: fulse 
+          include-default-sapp-filters: trouble 
